@@ -13,3 +13,9 @@ a:hover {
     color: #fffaeb;
     font-weight: 600;
 }
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
