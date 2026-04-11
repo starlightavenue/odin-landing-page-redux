@@ -85,7 +85,6 @@ h1 {
 /* SEC TWO */
 .two, .four {
     background-color: #faf9f6;
-    padding: 20px 100px;
 }
 
 .two {
@@ -93,7 +92,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     gap:20px;
-    padding-bottom: 100px;
+    padding: 20px 100px 100px 100px;
 }
 
 .twotext {
@@ -155,7 +154,28 @@ h2 {
 }
 
 /* SEC FOUR */
+.four {
+    display:flex;
+    justify-content: center;
+}
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color:#fde482;
+    border-radius: 25px;
+    margin: 80px;
+    padding:40px 60px;
+    max-width: 1200px;
 
+}
+
+.cta button {
+    border-style: solid;
+    border-color:#fffaeb;
+    border-width: 5px;
+}
 /*FOOTER*/
 footer {
     display:flex;
