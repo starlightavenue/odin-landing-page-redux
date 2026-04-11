@@ -22,7 +22,7 @@ a:hover {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 50px;
+    padding: 20px 100px;
 }
 
 ul {
@@ -43,6 +43,7 @@ ul {
 /* SEC ONE */
 .one {
     display:flex;
+    padding: 80px 100px;
 }
 
 /* SEC TWO */
