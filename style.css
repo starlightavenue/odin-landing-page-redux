@@ -15,15 +15,6 @@ a:hover {
     font-weight: 700;
 }
 
-ul {
-    list-style-type: none;
-    margin:0;
-    padding: 0;
-    display:flex;
-    gap: 15px;
-    font-size: 18px;
-}
-
 /* HEADER */
 .header {
     background-color: #fde482;
@@ -32,6 +23,15 @@ ul {
     align-items: center;
     padding: 20px 50px;
     width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    display:flex;
+    gap: 20px;
+    font-size: 18px;
 }
 
 .logo {
