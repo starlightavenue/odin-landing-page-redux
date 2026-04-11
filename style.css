@@ -63,6 +63,7 @@ ul {
 .one {
     display:flex;
     flex-wrap: wrap-reverse;
+    justify-content: center;
     align-items: center;
     padding: 80px 100px;
     gap:20px;
