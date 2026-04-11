@@ -21,6 +21,20 @@ img {
     border-radius: 20px;
 }
 
+button {
+    border-radius: 25px;
+    padding: 20px;
+    border-style: none;
+    font-size: 18px;
+    font-family: inherit;
+    color:#fffaeb;
+    background-color: #343633;
+}
+
+button:hover {
+    background-color: #494b48;
+}
+
 /* HEADER */
 .header {
     background-color: #fde482;
