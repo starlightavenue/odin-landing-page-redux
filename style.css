@@ -40,12 +40,16 @@ p {
 }
 
 /* HEADER */
+.top {
+   background-color: #fde482;
+}
 .header {
-    background-color: #fde482;
     display:flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 100px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 ul {
