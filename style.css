@@ -3,6 +3,7 @@
 body {
     font-family: 'Nunito', sans-serif;
     margin:0;
+    background-color: #fffaeb;
 }
 
 a {
@@ -49,6 +50,7 @@ ul {
 .two {
     display:flex;
     flex-direction: column;
+
 }
 
 .pastr-hold {
