@@ -113,6 +113,12 @@ h2 {
 .pastr-hold {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pastr {
+    width:250px;
+    text-align: center;
 }
 .imtwo {
     width: 200px;
