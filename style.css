@@ -41,7 +41,15 @@ ul {
 
 
 /* SEC ONE */
-
 .one {
     display:flex;
+}
+
+/* SEC TWO */
+.two {
+    display:flex;
+}
+
+.imtwo {
+    width: 200px;
 }
