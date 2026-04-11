@@ -60,3 +60,13 @@ ul {
 .imtwo {
     width: 200px;
 }
+
+/*FOOTER*/
+footer {
+    display:flex;
+    background-color: #f4e285;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
