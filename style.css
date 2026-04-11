@@ -71,6 +71,7 @@ h1 {
 
 .two, .four {
     background-color: #faf9f6;
+    padding: 20px 100px;
 }
 
 .pastr-hold {
@@ -80,6 +81,13 @@ h1 {
 .imtwo {
     width: 200px;
 }
+
+/* SEC THREE */
+.three {
+    padding: 100px 100px;
+}
+
+/* SEC FOUR */
 
 /*FOOTER*/
 footer {
