@@ -38,3 +38,10 @@ ul {
     font-size: 24px;
     font-weight: 900;
 }
+
+
+/* SEC ONE */
+
+.one {
+    display:flex;
+}
