@@ -49,7 +49,10 @@ ul {
 .two {
     display:flex;
     flex-direction: column;
+}
 
+.two, .four {
+    background-color: #faf9f6;
 }
 
 .pastr-hold {
