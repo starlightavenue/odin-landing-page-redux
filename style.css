@@ -47,11 +47,20 @@ ul {
     flex-wrap: wrap-reverse;
     align-items: center;
     padding: 80px 100px;
+    gap:20px;
+}
+
+.intro {
+    flex: 1 0 350px;
 }
 
 h1 {
     font-size: 48px;
     font-weight: 900;
+}
+
+.intro p {
+    font-size: 18px;
 }
 
 /* SEC TWO */
