@@ -48,8 +48,13 @@ ul {
 /* SEC TWO */
 .two {
     display:flex;
+    flex-direction: column;
 }
 
+.pastr-hold {
+    display: flex;
+    flex-wrap: wrap;
+}
 .imtwo {
     width: 200px;
 }
